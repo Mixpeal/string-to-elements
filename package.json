@@ -1,0 +1,17 @@
+{
+  "name": "@mixpeal/string-to-elements",
+  "version": "1.0.0",
+  "description": "Converts string to html elements",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "string",
+    "javascript",
+    "html",
+    "elements"
+  ],
+  "author": "Kayode Ojo",
+  "license": "MIT"
+}
