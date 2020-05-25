@@ -1,4 +1,4 @@
-It converts string to html elements, by breaking the sentence down into words and wrapping them with <span> element
+It convert strings to html elements, by breaking the sentence down into words and wrapping them with <span> element
 
 
 ## Installation
@@ -18,3 +18,4 @@ elementUp('A demo string');
 #ouput
 <span>A</span> <span>demo</span> <span>string</span>
 ```
+
