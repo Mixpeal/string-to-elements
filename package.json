@@ -1,12 +1,11 @@
 {
   "name": "@mixpeal/string-to-elements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts string to html elements",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "string",
     "javascript",
